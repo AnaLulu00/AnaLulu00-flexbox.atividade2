@@ -1,0 +1,7 @@
+.container-exercicioB {
+    display: flex;
+    justify-content: flex-end; /* Alinha os itens à direita */
+    align-items: center;       /* Centraliza os itens verticalmente */
+    height: 200px;             /* Altura definida para visualizar o alinhamento vertical */
+    border: 1px solid #000;    /* Apenas para visualização dos limites do container */
+}
