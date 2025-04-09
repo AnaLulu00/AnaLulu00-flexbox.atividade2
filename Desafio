@@ -1,0 +1,9 @@
+.container-desafio {
+    display: flex;
+    flex-direction: row-reverse; /* Inverte a direção dos itens: da direita para a esquerda */
+    justify-content: flex-end;   /* Alinha os itens ao final do container (que agora é à esquerda devido ao row-reverse) */
+}.container-desafio {
+    display: flex;
+    flex-direction: row-reverse; /* Inverte a direção dos itens: da direita para a esquerda */
+    justify-content: flex-end;   /* Alinha os itens ao final do container (que agora é à esquerda devido ao row-reverse) */
+}
