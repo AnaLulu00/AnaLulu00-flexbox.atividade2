@@ -1,0 +1,29 @@
+.container1 {
+    display: flex;
+    justify-content: flex-start; /* Alinha os itens no início do container */
+}
+
+.container2 {
+    display: flex;
+    justify-content: flex-end; /* Alinha os itens no final do container */
+}
+
+.container3 {
+    display: flex;
+    justify-content: center; /* Centraliza os itens horizontalmente */
+}
+
+.container4 {
+    display: flex;
+    justify-content: space-between; /* Espaço igual entre os itens */
+}
+
+.container5 {
+    display: flex;
+    justify-content: space-around; /* Espaço igual ao redor de cada item */
+}
+
+.container6 {
+    display: flex;
+    justify-content: space-evenly; /* Espaçamento igual entre todos os itens */
+}
